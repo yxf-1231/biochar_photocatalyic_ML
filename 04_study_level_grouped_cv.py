@@ -44,7 +44,7 @@ CLASSES = ['radical', 'non-radical', 'mixed']
 # groups ... were withheld"). This is a convenient proxy, NOT a verified
 # publication ID.
 SETTING = ['Smiles', 'CD', 'LI', 'RT', 'T', 'AC', 'PH', 'OA']
-EXPECTED_N = {'k': 382, 'mc': 710}   # consolidated dataset accompanying the revision
+EXPECTED_N = {'k': 382, 'mc': 711}   # consolidated dataset accompanying the revision
 
 # Header conventions accepted on input (renamed to the internal names above).
 KIN = {'C %': 'C', 'N %': 'N', 'O %': 'O', 'SSA m2/g': 'SSA', 'Id/Ig': 'IdIg',
