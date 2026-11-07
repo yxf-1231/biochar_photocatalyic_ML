@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn>=1.3
+rdkit
+shap
+matplotlib
+seaborn
+xgboost
+lightgbm
+catboost
+scikit-optimize
+openpyxl
+joblib
